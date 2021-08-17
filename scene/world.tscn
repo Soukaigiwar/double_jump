@@ -6,6 +6,7 @@
 [node name="world" type="Node"]
 
 [node name="Dino" parent="." instance=ExtResource( 1 )]
-position = Vector2( 290.433, 147.889 )
+position = Vector2( 231.936, 286.679 )
+JUMP_POWER = -600
 
 [node name="floor" parent="." instance=ExtResource( 2 )]
